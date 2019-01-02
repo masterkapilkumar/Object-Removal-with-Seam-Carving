@@ -18,7 +18,7 @@ optional arguments:
 
 ## Object Removal and Resizing
 
-Removes all the seams passing through the object, and the insert high energy seams to resize image to the original size
+Removes all the seams passing through the object, and the insert high energy seams to resize image to the desired size
 
 ```
 usage: seam_carving.py [-h] input_file output_file height width
